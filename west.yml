@@ -9,7 +9,7 @@ manifest:
       import:
         path-prefix: deps
     - name: boards
-      url: https://github.com/siphi1234/zephyr_boards.git
+      url: https://github.com/siphi1239/zephyr_boards.git
       revision: main
 
 self: 
